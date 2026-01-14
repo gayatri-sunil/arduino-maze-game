@@ -7,13 +7,13 @@ The project implements an interactive maze game using Arduino, combining embedde
 ## Project overview
 - Physical maze game controlled by an Arduino microcontroller
 - User interaction through hardware inputs
-- Real-time response using embedded C/C++
+- Real-time response using embedded C++
 - Designed with safety, reliability, and usability in mind
 
 ## Technical details
 - Microcontroller: Arduino
-- Programming language: C/C++ (Arduino)
-- Hardware components: sensors, switches, motors (as per lab design)
+- Programming language: C++ (Arduino)
+- Hardware components: sensor , joystick, motors (stepper motor)
 - Power and safety constraints considered
 
 ## Project management aspects
